@@ -6,6 +6,7 @@ title: "FluoCLIP: Stain-Aware Focus Quality Assessment in Fluorescence Microscop
 authors: "Hyejin Park^1*, Jiwon Yoon^1*, Sumin Park^1, Suree Kim^2, Sinae Jang^1, Eunsoo Lee^1, Dongmin Kang^1 and Dongbo Min^1 (* denotes equal contribution)"
 affiliations: "1 Ewha Womans University, 2 Daesang"
 paper: TBU
+video: None
 code: TBU
 data: TBU
 ---
