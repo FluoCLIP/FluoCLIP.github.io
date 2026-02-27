@@ -3,8 +3,10 @@ layout: project_page
 permalink: /
 
 title: "FluoCLIP: Stain-Aware Focus Quality Assessment in Fluorescence Microscopy"
-authors: "Hyejin Park^1*, Jiwon Yoon^1*, Sumin Park^1, Suree Kim^2, Sinae Jang^1, Eunsoo Lee^1, Dongmin Kang^1 and Dongbo Min^1 (* denotes equal contribution)"
-affiliations: "1 Ewha Womans University, 2 Daesang"
+authors: 
+    "Hyejin Park^1*, Jiwon Yoon^1*, Sumin Park^1, Suree Kim^2, Sinae Jang^1, Eunsoo Lee^1, Dongmin Kang^1 and Dongbo Min^1 (* denotes equal contribution)"
+affiliations: 
+    "1 Ewha Womans University, 2 Daesang"
 paper: TBU
 video: None
 code: TBU
@@ -31,7 +33,7 @@ Accurate focus quality assessment (FQA) in fluorescence microscopy remains chall
 
 
 ## Key Contributions
-1. We propose **FluoCLIP**8, a two-stage ordinal vision–language framework that learns stain-specific grounding and stain-guided ranking for robust FQA.
+1. We propose **FluoCLIP**, a two-stage ordinal vision–language framework that learns stain-specific grounding and stain-guided ranking for robust FQA.
 2. We introduce **FluoMix**, a new dataset featuring diverse fluorescent stains and tissue-level focus variations, providing the first dataset for stain-aware FQA in fluorescence microscopy.
 3. We formulate the task of **Stain-Aware FQA** in fluorescence microscopy, highlighting the need to model stain-dependent focus behavior. 
 
