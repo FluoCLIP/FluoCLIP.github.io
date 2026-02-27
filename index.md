@@ -3,7 +3,7 @@ layout: project_page
 permalink: /
 
 title: "FluoCLIP: Stain-Aware Focus Quality Assessment in Fluorescence Microscopy"
-authors: "Hyejin Park<sup>1*</sup>, Jiwon Yoon<sup>1*</sup>, Sumin Park<sup>1</sup>, Suree Kim<sup>2</sup>, Sinae Jang<sup>1</sup>, Eunsoo Lee<sup>1</sup>, Dongmin Kang<sup>1</sup><sup>1&dagger;</sup>, Dongbo Min<sup>1</sup><sup>1&dagger;</sup> (*: Equal Contribution, &dagger;: Corresponding Author)"
+authors: "Hyejin Park<sup>1*</sup>, Jiwon Yoon<sup>1*</sup>, Sumin Park<sup>1</sup>, Suree Kim<sup>2</sup>, Sinae Jang<sup>1</sup>, Eunsoo Lee<sup>1</sup>, Dongmin Kang<sup>1&dagger;</sup>, Dongbo Min<sup>1&dagger;</sup> (*: Equal Contribution, &dagger;: Corresponding Author)"
 affiliations: "<sup>1</sup>Ewha Womans University, <sup>2</sup>Daesang"
 paper: TBU
 video: None
