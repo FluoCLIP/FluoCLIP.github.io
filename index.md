@@ -7,7 +7,7 @@ authors: "Hyejin Park<sup>1*</sup>, Jiwon Yoon<sup>1*</sup>, Sumin Park<sup>1</s
 affiliations: "<sup>1</sup>Ewha Womans University, <sup>2</sup>Daesang"
 paper: https://arxiv.org/abs/2602.23791
 video: None
-code: (https://github.com/FluoCLIP/FluoCLIP)
+code: https://github.com/FluoCLIP/FluoCLIP
 data: TBU
 ---
 
