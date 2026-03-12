@@ -127,6 +127,11 @@ To handle the heterogeneous focus degradation unique to fluorescence imaging, we
 ---
 
 ## Empirical Analysis of Stain-Dependent Focus Behavior
+The mean SF values exhibit a generally monotonic decrease as the focus level moves from in-focus to defocused regions across all three datasets. This confirms that the SF metric can reasonably capture the overall directionality of focus degradation implied by the ordinal labels, validating its use as a quantitative sharpness indicator for subsequent analysis.
+
+We then analyze the distribution of the SF metric across different stains within each dataset. In FocusPath, which consists of bright-field H&E-stained whole-slide images, the per-stain variance is modest, with stains exhibiting closely aligned SF ranges and largely overlapping distributions, indicating stain-invariant focus behavior. In contrast, BBBC006 and FluoMix exhibit substantial stain-dependent variability. Different fluorescent stains occupy distinct SF ranges with largely non-overlapping variances, demonstrating that focus degradation is highly stain-dependent in fluorescence microscopy.
+
+This observation supports the hypothesis that focus quality should be modeled as a function of stain characteristics rather than assuming a universal focus-rank mapping.
 
 <div class="columns is-centered">
   <div class="column is-one-quarter">
