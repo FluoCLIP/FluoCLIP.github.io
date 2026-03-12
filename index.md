@@ -3,8 +3,8 @@ layout: project_page
 permalink: /
 
 title: "FluoCLIP: Stain-Aware Focus Quality Assessment in Fluorescence Microscopy"
-authors: "Hyejin Park<sup>1*</sup>, Jiwon Yoon<sup>1*</sup>, Sumin Park<sup>1</sup>, Suree Kim<sup>2</sup>, Sinae Jang<sup>1</sup>, Eunsoo Lee<sup>1</sup>,<br>Dongmin Kang<sup>1&dagger;</sup>, Dongbo Min<sup>1&dagger;</sup> (*: Equal Contribution, &dagger;: Corresponding Author)"
-affiliations: "<sup>1</sup>Ewha Womans University, <sup>2</sup>Daesang"
+authors: "Hyejin Park<sup>1*</sup>, Jiwon Yoon<sup>1*</sup>, Sumin Park<sup>1</sup>, Suree Kim<sup>3</sup>, Sinae Jang<sup>2</sup>, Eunsoo Lee<sup>2</sup>,<br>Dongmin Kang<sup>2&dagger;</sup>, Dongbo Min<sup>1&dagger;</sup> (*: Equal Contribution, &dagger;: Corresponding Author)"
+affiliations: "<sup>1</sup>Division of AI and Software, Ewha Womans University, <br><sup>2</sup>Bioimaging Data Curation Center(BDCC), Dept. of Life Science, Ewha Womans University, <br><sup>3</sup>Analytical Solution Team, Daesang Corporation"
 paper: https://arxiv.org/abs/2602.23791
 code: https://github.com/FluoCLIP/FluoCLIP
 data: TBU
