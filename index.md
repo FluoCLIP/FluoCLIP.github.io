@@ -152,7 +152,7 @@ To handle the heterogeneous focus degradation unique to fluorescence imaging, we
 </div>
 *Figure 2 : Empirical Analysis of Stain-Dependent Focus Behavior: (a) Mean spatial frequency (SF) versus focus rank for three datasets; the shaded region indicates ±1 standard deviation across samples. SF decreases monotonically with increasing rank, confirming that SF reliably captures focus degradation. (b)–(d) Boxplots of SF values across stains for each dataset (x-axis: stain identity, y-axis: SF distribution). FocusPath shows stain-invariant SF trends, wherease BBBC006 and FluoMix display pronounced stain-dependent variability.*
 
-## Spatial Frequency (SF) Metric
+### Spatial Frequency (SF) Metric
 In our analysis, we utilize the Spatial Frequency (SF) metric as a quantitative proxy for image sharpness to analyze stain-dependent focus behavior. Higher SF values indicate sharper, more in-focus images. 
 
 Given an image $I \in \mathbb{R}^{M \times N}$, the row frequency ($RF$) and column frequency ($CF$) components are defined as:
