@@ -7,7 +7,7 @@ authors: "Hyejin Park<sup>1*</sup>, Jiwon Yoon<sup>1*</sup>, Sumin Park<sup>1</s
 affiliations: "<sup>1</sup>Division of AI and Software, Ewha Womans University, <br><sup>2</sup>Bioimaging Data Curation Center(BDCC), Dept. of Life Science, Ewha Womans University, <br><sup>3</sup>Analytical Solution Team, Daesang Corporation"
 paper: https://arxiv.org/abs/2602.23791
 code: https://github.com/FluoCLIP/FluoCLIP
-data: https://kbds.re.kr/KBI/browse?group=Data&keyword=KAP240730&database=93
+data: https://kbds.re.kr/KBI/browse?group=Data&keyword=KAP242335&database=93
 ---
 
 <!-- Using HTML to center the abstract -->
